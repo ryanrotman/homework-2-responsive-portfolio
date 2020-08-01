@@ -17,29 +17,29 @@ This project really tested and honed the concept of using Bootstrap's grid syste
 In completing this project, here are some samples of the work I did.
 
 * Added a consistent navbar with links across all three pages while adjusting the brand as well as the active selection of the current page.
-    <!-- > insert About Me navbar screenshot -->
-    <!-- > insert Portfolio navbar screenshot -->
-    <!-- > insert Contact navbar screenshot -->
+    > ![ScreenShot_NavbarHome](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarHome.png)
+    > ![Screenshot_NavbarPortfolio](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarPortfolio.png)
+    > ![Screenshot_NavbarContact](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarContact.png)
 
 * Semantic html elements
-    <!-- > insert screenshot showing scaled down code with main semantic elements -->
+    > ![Screenshot_SemanticCode](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SemanticCode.png)
 
 * Used sub-rows and sub-columns as well as the breakpoints to set up my social media buttons with links
-    <!-- > insert xs social media screenshot -->
-    <!-- > insert sm social media screenshot -->
+    > ![Screenshot_SocialXS](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SocialXS.png)
+    > ![Screenshot_SocialSM](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SocialSM.png)
 
 * It was also a requirement to use a HTML validation service to check the HTML
-    <!-- > insert About Me validation screenshot -->
-    <!-- > insert Portfolio validation screenshot -->
-    <!-- > insert Contact validation screenshot -->
+    > ![Screenshot_HomeValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_HomeValidation.png)
+    > ![Screenshot_PorfolioValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_PortfolioValidation.png)
+    > ![Screenshot_ContactValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_ContactValidation.png)
 
 ## Page Screenshots
 Home/About Me Page
-<!-- insert screenshot here -->
+![Screenshot_HomePage](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_HomePage.png)
 Portfolio Page
-<!-- insert screenshot here -->
+![Screenshot_PortfolioPage](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_PortfolioPage.png)
 Contact Page
-<!-- insert screenshot here  -->
+![Screenshot_ContactPage](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_ContactPage.png)
 
 ## Link
 
