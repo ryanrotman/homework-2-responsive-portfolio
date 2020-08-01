@@ -1,0 +1,19 @@
+body {
+    margin-bottom: 60px;
+}
+
+#portpageheading {
+    text-decoration: underline;
+}
+
+.card {
+    width: auto;
+}
+
+#gitcard {
+    margin-top: 10px;
+}
+
+.img-thumbnail {
+    width: auto;
+}
