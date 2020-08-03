@@ -1,6 +1,6 @@
 # Homework 2: Responsive Portfolio
 
-# Description
+## Description
 
 This repository holds the second homework assignment for [The Coding Boot Camp](https://techbootcamps.utexas.edu/coding/) through the University of Texas at Austin's Center for Professional Education.
 
