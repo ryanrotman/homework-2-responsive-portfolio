@@ -17,3 +17,7 @@ h4 {
 .img-thumbnail {
     width: auto;
 }
+
+#email-address {
+    margin-top: 15px;
+}
