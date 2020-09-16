@@ -6,6 +6,10 @@ header {
     background-color: #D9D9D9;
 }
 
+#headshot {
+    margin-bottom: 20px;
+}
+
 h4 {
     text-decoration: underline;
 }
