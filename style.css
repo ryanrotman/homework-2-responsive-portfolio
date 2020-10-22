@@ -37,3 +37,7 @@ h4 {
 #email-address {
     margin-top: 15px;
 }
+
+.hidden {
+    visibility: hidden;
+}
