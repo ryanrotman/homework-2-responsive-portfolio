@@ -33,7 +33,7 @@ In completing this project, here are some samples of the work I did.
     > ![Screenshot_PorfolioValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_PortfolioValidation.png)
     > ![Screenshot_ContactValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_ContactValidation.png)
 
-This project will continue to be edited as new assignments and projects are completed.
+This project will continue to be updated as new assignments and projects are completed.
 
 ## Page Screenshots
 Home/About Me Page
