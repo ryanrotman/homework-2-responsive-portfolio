@@ -1,10 +1,10 @@
-# Homework 2: Responsive Portfolio
+# Responsive Portfolio
 
 ## Description
 
-This repository holds the second homework assignment for [The Coding Boot Camp](https://techbootcamps.utexas.edu/coding/) through the University of Texas at Austin's Center for Professional Education.
+<!-- This repository holds the second homework assignment for [The Coding Boot Camp](https://techbootcamps.utexas.edu/coding/) through the University of Texas at Austin's Center for Professional Education. -->
 
-This assignment is a project using responsive design. For this project we were tasked with creating a portfolio webpage using HTML and Bootstrap that included three pages:
+This project uses mobile responsive design inside of HTML and Bootstrap CSS to create a portfolio webpage including three pages:
 
 * Home/About Me
 * Portfolio
@@ -17,32 +17,32 @@ This project really tested and honed the concept of using Bootstrap's grid syste
 In completing this project, here are some samples of the work I did.
 
 * Added a consistent navbar with links across all three pages while adjusting the brand as well as the active selection of the current page.
-    > ![ScreenShot_NavbarHome](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarHome.png)
-    > ![Screenshot_NavbarPortfolio](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarPortfolio.png)
-    > ![Screenshot_NavbarContact](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarContact.png)
+    > ![ScreenShot_NavbarHome](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarHome.png)
+    > ![Screenshot_NavbarPortfolio](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarPortfolio.png)
+    > ![Screenshot_NavbarContact](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_NavbarContact.png)
 
 * Semantic html elements
-    > ![Screenshot_SemanticCode](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SemanticCode.png)
+    > ![Screenshot_SemanticCode](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SemanticCode.png)
 
 * Used sub-rows and sub-columns as well as the breakpoints to set up my social media buttons with links
-    > ![Screenshot_SocialXS](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SocialXS.png)
-    > ![Screenshot_SocialSM](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SocialSM.png)
+    > ![Screenshot_SocialXS](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SocialXS.png)
+    > ![Screenshot_SocialSM](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_SocialSM.png)
 
 * It was also a requirement to use a HTML validation service to check the HTML
-    > ![Screenshot_HomeValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_HomeValidation.png)
-    > ![Screenshot_PorfolioValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_PortfolioValidation.png)
-    > ![Screenshot_ContactValidation](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_ContactValidation.png)
+    > ![Screenshot_HomeValidation](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_HomeValidation.png)
+    > ![Screenshot_PorfolioValidation](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_PortfolioValidation.png)
+    > ![Screenshot_ContactValidation](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_ContactValidation.png)
 
 This project will continue to be updated as new assignments and projects are completed.
 
 ## Page Screenshots
 Home/About Me Page
-![Screenshot_HomePage](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_HomePage.png)
+![Screenshot_HomePage](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_HomePage.png)
 Portfolio Page
-![Screenshot_PortfolioPage](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_PortfolioPage.png)
+![Screenshot_PortfolioPage](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_PortfolioPage.png)
 Contact Page
-![Screenshot_ContactPage](https://github.com/ryanrotman/homework-2-responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_ContactPage.png)
+![Screenshot_ContactPage](https://github.com/ryanrotman/responsive-portfolio/blob/master/Assets/Images/ReadMe_ScreenShot_ContactPage.png)
 
 ## Link
 
-Github Pages Link: [https://ryanrotman.github.io/homework-2-responsive-portfolio/](https://ryanrotman.github.io/homework-2-responsive-portfolio/)
+Github Pages Link: [https://ryanrotman.github.io/responsive-portfolio/](https://ryanrotman.github.io/responsive-portfolio/)
